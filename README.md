@@ -1,2 +1,2 @@
 # projeto-android
- Projeto android criado no curso de HTML5 e CSS3
+Projeto do curso de HTML5 & CSS3 do CursoemVideo
